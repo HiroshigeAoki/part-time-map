@@ -24,3 +24,11 @@ URL: https://part-time-map-355016.web.app/ (今の所、利用可能範囲は静
 * frontend: firebase
 * backend: GCP Cloud Run
 * DB: MongoDB Atlas Database
+
+# 処理の流れ
+## バイト情報管理機能
+![バイト情報管理機能 (4)](https://user-images.githubusercontent.com/58395317/179741790-c276f76d-e28e-4e1d-9a5e-c3b4797faf19.jpg)
+
+## 条件検索機能
+![条件検索機能 (1)](https://user-images.githubusercontent.com/58395317/179741849-b49eee7f-0bea-491e-9925-1610927e4bfc.jpg)
+
