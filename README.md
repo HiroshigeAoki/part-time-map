@@ -13,3 +13,14 @@ URL: https://part-time-map-355016.web.app/ (今の所、利用可能範囲は静
 
 ## 検索結果（プロンプト表示）
 <img width="1260" alt="Screen Shot 2022-07-19 at 16 33 57" src="https://user-images.githubusercontent.com/58395317/179693701-3ece1d83-dba2-4aae-805d-3ee301f90e9d.png">
+
+# 使用した技術
+
+frontend: node.js → vue.jsに移行予定
+backend: FastAPI
+crawler: scrapy
+
+## クラウド
+frontend: firebase
+backend: GCP Cloud Run
+DB: MongoDB Atlas Database
