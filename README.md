@@ -21,8 +21,8 @@ URL: https://part-time-map-355016.web.app/ (今の所、利用可能範囲は静
 * crawler: scrapy
 
 # 公開方法
-* frontend: firebase
-* backend: GCP Cloud Run
+* frontend: firebase hosting
+* backend: Cloud Run
 * DB: MongoDB Atlas Database
 
 # 処理の流れ
